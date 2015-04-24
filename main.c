@@ -29,7 +29,8 @@ int main(int argc, char* argv[])
 			break;
 	}
 	
-	printf("½Ã·¯ ½Ã·¯ %d.\n", result);
+
+	printf("abcd í•œê¸€ %d.\n", result);
 	
 	return 0;
 }
