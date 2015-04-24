@@ -30,7 +30,7 @@ int main(int argc, char* argv[])
 	}
 	
 
-	printf("abcd 한글 %d.\n", result);
+	printf("abcdefg 한글 %d.\n", result);
 	
 	return 0;
 }
