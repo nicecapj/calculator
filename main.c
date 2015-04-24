@@ -1,4 +1,4 @@
-#include <stdio.h>
+﻿#include <stdio.h>
  
 int add(int, int);
 int sub(int, int);
@@ -30,7 +30,7 @@ int main(int argc, char* argv[])
 	}
 	
 
-	printf("abcd 한글 %d.\n", result);
+	printf("abcd 한글 == %d.\n", result);
 	
 	return 0;
 }
