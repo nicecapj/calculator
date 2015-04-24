@@ -29,7 +29,8 @@ int main(int argc, char* argv[])
 			break;
 	}
 	
-	printf("한글 한글 %d.\n", result);
+
+	printf("abcd 한글 %d.\n", result);
 	
 	return 0;
 }
