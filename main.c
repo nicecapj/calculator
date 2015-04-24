@@ -29,7 +29,7 @@ int main(int argc, char* argv[])
 			break;
 	}
 	
-	printf("result is %d.\n", result);
+	printf("시러 시러 %d.\n", result);
 	
 	return 0;
 }
